@@ -12,3 +12,7 @@
 
 - The DApp which we are developing carefully will present two diffrent options for users. 
 
+# DingoXY Token 
+
+Dingo XY Token (DgXy) is a subtoken of Dingo Token and Dingo Token universe. Users must have DgXY to mint "Special NFTs" is a new protocol layer, enabling a new world for NFT.
+
